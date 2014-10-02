@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
+title: pcRuniveRsum
+home: true
 ---
 
 ### [chipPCR](http://github.com/michbur/chipPCR)

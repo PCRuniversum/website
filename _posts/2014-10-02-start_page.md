@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title:  "some cool title"
+date:   2014-10-02 11:12:21
 ---
 
 ### [chipPCR](http://github.com/michbur/chipPCR)
