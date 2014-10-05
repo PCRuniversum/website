@@ -6,7 +6,7 @@ home: true
 
 ## Plea for pcRuniveRsum - R qPCR / dPCR / MCA Landscape
 
-[Read on Stefan's homepage](http://www.hs-lausitz.de/groups/multiplex-assays/bildbasierte-assays-imagebased-assays/r-dpcr-qpcr-landscape.html)
+[Read on Stefan's homepage](http://www.hs-lausitz.de/groups/multiplex-assays/bildbasierte-assays-imagebased-assays/r-dpcr-qpcr-landscape.html).
 
 ## Packages in pcRuniveRsum (in alphabetical order)
 
