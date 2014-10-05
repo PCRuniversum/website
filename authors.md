@@ -14,7 +14,7 @@ Github account: @[michbur](https://github.com/michbur)
 
 ### Stefan Roediger 
 Github account: @[devSJR](https://github.com/devSJR)  
-ReasearchGate account: http://www.researchgate.net/profile/Stefan_Roediger  
+ReasearchGate account: [http://www.researchgate.net/profile/Stefan_Roediger](http://www.researchgate.net/profile/Stefan_Roediger)  
 Mail: stefan.roediger[at]hs-lausitz.de  
 
 

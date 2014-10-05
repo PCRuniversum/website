@@ -8,7 +8,7 @@ date:   2014-10-02 11:12:21
 
 [Read on Stefan's homepage](http://www.hs-lausitz.de/groups/multiplex-assays/bildbasierte-assays-imagebased-assays/r-dpcr-qpcr-landscape.html)
 
-## Packages in pcRuniveRsum
+## Packages in pcRuniveRsum (in alphabetical order)
 
 ### [chipPCR](http://github.com/michbur/chipPCR)
 #### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)
@@ -22,14 +22,14 @@ In addition the first approximate approximate derivative maximum (FDM) and secon
 [AmpSim](http://michbur.shinyapps.io/AmpSim/)  
 [MFIaggr](http://michbur.shinyapps.io/MFIaggr_gui/)  
 
+### [dpcR](http://github.com/michbur/dpcR)
+#### Mainteiner: Michal Burdukiewicz (@michbur)
+Analysis, visualisation and simulation of digital PCR experiments.
+
 ### [mbMCA](http://github.com/michbur/MBmca)
 #### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)
 
 The MBmca package provides data sets and lightweight utilities for nucleic acid melting curve analysis and presentation on microbead surfaces.
-
-### [dpcR](http://github.com/michbur/dpcR)
-#### Mainteiner: Michal Burdukiewicz (@michbur)
-Analysis, visualisation and simulation of digital PCR experiments.
 
 ### [RDML](http://github.com/kablag/RDML)
 #### Mainteiner: Konstantin A. Blagodatskikh (@kablag)
