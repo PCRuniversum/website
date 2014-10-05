@@ -1,7 +1,7 @@
 ---
-layout: home
-title: start of pcRuniveRsum
-home: true
+layout: page
+title:  start of pcRuniveRsum
+date:   2014-10-02 11:12:21
 ---
 
 # Plea for pcRuniveRsum - R qPCR / dPCR / MCA Landscape
