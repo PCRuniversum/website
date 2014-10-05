@@ -6,17 +6,16 @@ permalink: /Authors/
 
 ## Authors and Contributors (in alphabetical order)
 
-#### Mainteiner: Konstantin A. Blagodatskikh
-Github account: @kablag
+### Konstantin A. Blagodatskikh
+Github account: @[kablag](https://github.com/kablag)
 
 ### Michal Burdukiewicz
-Github account: @michbur
-Michal Burdukiewicz (@michbur).
+Github account: @[michbur](https://github.com/michbur) 
 
 ### Stefan Roediger 
-Github account: @https://github.com/devSJR
-ReasearchGate account: http://www.researchgate.net/profile/Stefan_Roediger
-Mail: stefan.roediger[at]hs-lausitz.de
+Github account: @[devSJR](https://github.com/devSJR)  
+ReasearchGate account: http://www.researchgate.net/profile/Stefan_Roediger  
+Mail: stefan.roediger[at]hs-lausitz.de  
 
 
 
