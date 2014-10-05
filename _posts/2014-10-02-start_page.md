@@ -5,6 +5,7 @@ date:   2014-10-02 11:12:21
 ---
 
 ### [chipPCR](http://github.com/michbur/chipPCR)
+#### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)
 
 The chipPCR package is a toolkit of functions to preprocess amplification curve data. Amplification data can be obtained from conventional PCR reactions or isothermal amplification reactions. The package contains functions to normalize and baseline amplification curves, a routine to detect the start of an amplification reaction, several smoothers for amplification data, a function to distinguish positive and negative amplification reactions and a function to determine the amplification efficiency. The smoothers are based on LOWESS, moving average, cubic splines, Savitzky-Golay and others. 
 
@@ -16,11 +17,14 @@ In addition the first approximate approximate derivative maximum (FDM) and secon
 [MFIaggr](http://michbur.shinyapps.io/MFIaggr_gui/)  
 
 ### [mbMCA](http://github.com/michbur/MBmca)
+#### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)
 
 The MBmca package provides data sets and lightweight utilities for nucleic acid melting curve analysis and presentation on microbead surfaces.
 
 ### [dpcR](http://github.com/michbur/dpcR)
-package for digital PCR analysis.
+#### Mainteiner: Michal Burdukiewicz (@michbur)
+Analysis, visualisation and simulation of digital PCR experiments.
 
-### Authors and Contributors
-Stefan Roediger (stefan.roediger@hs-lausitz.de), Michal Burdukiewicz (@michbur).
+### [RDML](http://github.com/kablag/RDML)
+#### Mainteiner: Konstantin A. Blagodatskikh (@kablag)
+Imports real-time thermo cycler (qPCR) data from Real-time PCR Data Markup Language (RDML) format files and transforms to the appropriate formats of the 'qpcR' and 'chipPCR' packages.
