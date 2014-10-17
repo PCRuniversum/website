@@ -27,7 +27,7 @@ dpcR provides tools for analysis, visualisation and simulation of digital PCR ex
 
 ### Web services:   
 
-[dpcr_density](http://michbur.shinyapps.io/AmpSim/): calculates and plots the density of the number of positive molecules or the average number of molecules per partition.
+[dpcr_density](http://michbur.shinyapps.io/dpcr_density/): calculates and plots the density of the number of positive molecules or the average number of molecules per partition.
 
 ## [mbMCA](http://github.com/michbur/MBmca)   
 
