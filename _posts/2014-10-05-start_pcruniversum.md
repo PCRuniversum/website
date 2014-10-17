@@ -6,12 +6,12 @@ date:   2014-10-02 11:12:21
 
 # Plea for pcRuniveRsum - R qPCR / dPCR / MCA Landscape
 
-[Read on Stefan's homepage](http://www.hs-lausitz.de/groups/multiplex-assays/bildbasierte-assays-imagebased-assays/r-dpcr-qpcr-landscape.html)
+[Read on Stefan's homepage](http://www.hs-lausitz.de/groups/multiplex-assays/bildbasierte-assays-imagebased-assays/r-dpcr-qpcr-landscape.html).
 
 # Packages in pcRuniveRsum (in alphabetical order)
 
-## [chipPCR](http://github.com/michbur/chipPCR)
-### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)
+## [chipPCR](http://github.com/michbur/chipPCR)  
+### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)  
 
 The chipPCR package is a toolkit of functions to preprocess amplification curve data. Amplification data can be obtained from conventional PCR reactions or isothermal amplification reactions. The package contains functions to normalize and baseline amplification curves, a routine to detect the start of an amplification reaction, several smoothers for amplification data, a function to distinguish positive and negative amplification reactions and a function to determine the amplification efficiency. The smoothers are based on LOWESS, moving average, cubic splines, Savitzky-Golay and others. 
 

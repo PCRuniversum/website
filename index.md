@@ -1,17 +1,16 @@
 ---
 layout: home
-title: start of pcRuniveRsum
+title: 
 home: true
 ---
 
 # Plea for pcRuniveRsum - R qPCR / dPCR / MCA Landscape
 
-[Read on Stefan's homepage](http://www.hs-lausitz.de/groups/multiplex-assays/bildbasierte-assays-imagebased-assays/r-dpcr-qpcr-landscape.html)
+[Read on Stefan's homepage](http://www.hs-lausitz.de/groups/multiplex-assays/bildbasierte-assays-imagebased-assays/r-dpcr-qpcr-landscape.html).
 
 # Packages in pcRuniveRsum (in alphabetical order)
 
-## [chipPCR](http://github.com/michbur/chipPCR)
-### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)
+## [chipPCR](http://github.com/michbur/chipPCR)  
 
 The chipPCR package is a toolkit of functions to preprocess amplification curve data. Amplification data can be obtained from conventional PCR reactions or isothermal amplification reactions. The package contains functions to normalize and baseline amplification curves, a routine to detect the start of an amplification reaction, several smoothers for amplification data, a function to distinguish positive and negative amplification reactions and a function to determine the amplification efficiency. The smoothers are based on LOWESS, moving average, cubic splines, Savitzky-Golay and others. 
 
@@ -23,14 +22,23 @@ In addition the first approximate approximate derivative maximum (FDM) and secon
 [MFIaggr](http://michbur.shinyapps.io/MFIaggr_gui/)  
 
 ## [dpcR](http://github.com/michbur/dpcR)  
-### Mainteiner: Michal Burdukiewicz (@michbur)  
-Analysis, visualisation and simulation of digital PCR experiments.
 
-## [mbMCA](http://github.com/michbur/MBmca)  
-### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)  
+dpcR provides tools for analysis, visualisation and simulation of digital PCR experiments including: 
+
+### Web services:   
+
+[dpcr_density](http://michbur.shinyapps.io/AmpSim/): calculates and plots the density of the number of positive molecules or the average number of molecules per partition.
+
+## [mbMCA](http://github.com/michbur/MBmca)   
 
 The MBmca package provides data sets and lightweight utilities for nucleic acid melting curve analysis and presentation on microbead surfaces.  
 
 ## [RDML](http://github.com/kablag/RDML)  
-### Mainteiner: Konstantin A. Blagodatskikh (@kablag)  
+  
 Imports real-time thermo cycler (qPCR) data from Real-time PCR Data Markup Language (RDML) format files and transforms to the appropriate formats of the 'qpcR' and 'chipPCR' packages.
+
+### Web services:   
+
+[RDML import](http://kablag.ru/shiny/RDML/)
+
+
