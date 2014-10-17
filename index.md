@@ -1,6 +1,6 @@
 ---
 layout: home
-title: pcRuniveRsum
+title: 
 home: true
 ---
 
