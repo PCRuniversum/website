@@ -32,6 +32,8 @@ dpcR provides tools for analysis, visualisation and simulation of digital PCR ex
 ### Web services:   
 
 [dpcr_density](http://michbur.shinyapps.io/dpcr_density/): calculates and plots the density of the number of positive molecules or the average number of molecules per partition.
+[test_counts](https://michbur.shinyapps.io/test_counts_gui/): showcase for usage of Generalized Linear models for comparing digital PCR experiments.
+
 
 ### [Changelog of the stable version](http://cran.r-project.org/web/packages/dpcR/ChangeLog)  
 
