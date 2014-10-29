@@ -21,6 +21,10 @@ In addition the first approximate approximate derivative maximum (FDM) and secon
 [AmpSim](http://michbur.shinyapps.io/AmpSim/)  
 [MFIaggr](http://michbur.shinyapps.io/MFIaggr_gui/)  
 
+### [Changelog of the stable version](http://cran.r-project.org/web/packages/chipPCR/ChangeLog)  
+
+
+
 ## [dpcR](http://github.com/michbur/dpcR)  
 
 dpcR provides tools for analysis, visualisation and simulation of digital PCR experiments including: 
@@ -29,9 +33,14 @@ dpcR provides tools for analysis, visualisation and simulation of digital PCR ex
 
 [dpcr_density](http://michbur.shinyapps.io/dpcr_density/): calculates and plots the density of the number of positive molecules or the average number of molecules per partition.
 
+### [Changelog of the stable version](http://cran.r-project.org/web/packages/dpcR/ChangeLog)  
+
+
 ## [mbMCA](http://github.com/michbur/MBmca)   
 
 The MBmca package provides data sets and lightweight utilities for nucleic acid melting curve analysis and presentation on microbead surfaces.  
+
+### [Changelog of the stable version](http://cran.r-project.org/web/packages/MBmca/ChangeLog)  
 
 ## [RDML](http://github.com/kablag/RDML)  
   
@@ -41,4 +50,5 @@ Imports real-time thermo cycler (qPCR) data from Real-time PCR Data Markup Langu
 
 [RDML import](http://kablag.ru/shiny/RDML/)
 
+### [Changelog of the stable version](http://cran.r-project.org/web/packages/RDML/ChangeLog)  
 
