@@ -27,21 +27,14 @@ In addition the first approximate approximate derivative maximum (FDM) and secon
 
 ## [dpcR](http://github.com/michbur/dpcR)  
 
-<<<<<<< HEAD
-dpcR provides tools for analysis, visualisation and simulation of digital PCR experiments. It contains: methods of comparing dPCR reactions, convertion of qPCR experiments to dPCR and spatial randomness tests.
-=======
 ### [Changelog of the stable version](http://cran.r-project.org/web/packages/dpcR/ChangeLog)  
 
-dpcR provides tools for analysis, visualisation and simulation of digital PCR experiments including: 
->>>>>>> f5bea61c9233303125ce017714d0fbeb93c57167
+dpcR provides tools for analysis, visualisation and simulation of digital PCR experiments. It contains: methods of comparing dPCR reactions, convertion of qPCR experiments to dPCR and spatial randomness tests.
 
 ### Web services:   
 
 [dpcr_density](http://michbur.shinyapps.io/dpcr_density/): calculates and plots the density of the number of positive molecules or the average number of molecules per partition.
 [test_counts](https://michbur.shinyapps.io/test_counts_gui/): showcase for usage of Generalized Linear models for comparing digital PCR experiments.
-
-
-
 
 
 ## [mbMCA](http://github.com/michbur/MBmca)   
