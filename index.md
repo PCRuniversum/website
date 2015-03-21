@@ -23,7 +23,7 @@ In addition the first approximate approximate derivative maximum (FDM) and secon
 
 ## [dpcR](http://github.com/michbur/dpcR)  
 
-dpcR provides tools for analysis, visualisation and simulation of digital PCR experiments including: 
+dpcR provides tools for analysis, visualisation and simulation of digital PCR experiments. It contains: methods of comparing dPCR reactions, convertion of qPCR experiments to dPCR and spatial randomness tests.
 
 ### Web services:   
 
@@ -38,9 +38,5 @@ The MBmca package provides data sets and lightweight utilities for nucleic acid 
 ## [RDML](http://github.com/kablag/RDML)  
   
 Imports real-time thermo cycler (qPCR) data from Real-time PCR Data Markup Language (RDML) format files and transforms to the appropriate formats of the 'qpcR' and 'chipPCR' packages.
-
-### Web services:   
-
-[RDML import](http://kablag.ru/shiny/RDML/)
 
 
