@@ -14,7 +14,8 @@ home: true
 
 ### [Changelog of the stable version](http://cran.r-project.org/web/packages/chipPCR/ChangeLog)  
 
-<img src="MFIaggrgui.png" alt="MFIaggrgui" style="width: 200px;"/>
+
+![MFIaggr_gui](MFIaggr_gui.jpg)
 
 The chipPCR package is a toolkit of functions to preprocess amplification curve data. Amplification data can be obtained from conventional PCR reactions or isothermal amplification reactions. The package contains functions to normalize and baseline amplification curves, a routine to detect the start of an amplification reaction, several smoothers for amplification data, a function to distinguish positive and negative amplification reactions and a function to determine the amplification efficiency. The smoothers are based on LOWESS, moving average, cubic splines, Savitzky-Golay and others. 
 
