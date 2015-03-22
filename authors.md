@@ -8,9 +8,12 @@ permalink: /Authors/
 
 ### Konstantin A. Blagodatskikh @[kablag](https://github.com/kablag)  
 Maintainer of [RDML](http://github.com/kablag/RDML) package.  
+ReasearchGate account: [https://www.researchgate.net/profile/Konstantin_Blagodatskikh](https://www.researchgate.net/profile/Konstantin_Blagodatskikh)  
 
 ### Michal Burdukiewicz @[michbur](https://github.com/michbur)  
 Maintainer of [dpcR](http://github.com/michbur/dpcR) package.  
+ReasearchGate account: [https://www.researchgate.net/profile/Michal_Burdukiewicz](https://www.researchgate.net/profile/Michal_Burdukiewicz)  
+
 
 ### Stefan Roediger @[devSJR](https://github.com/devSJR)  
 Maintainer of [chipPCR](http://github.com/michbur/chipPCR) and [mbMCA](http://github.com/michbur/MBmca) package.  
