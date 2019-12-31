@@ -20,7 +20,3 @@ Maintainer of [chipPCR](http://github.com/michbur/chipPCR) and [mbMCA](http://gi
 ReasearchGate account: [http://www.researchgate.net/profile/Stefan_Roediger](http://www.researchgate.net/profile/Stefan_Roediger)  
 Mail: stefan.roediger[at]hs-lausitz.de  
 
-
-
-
-
