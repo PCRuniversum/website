@@ -1,8 +1,11 @@
----
-layout: page
-title:  start of pcRuniveRsum
-date:   2014-10-02 11:12:21
----
++++
+title = "Plea for PCRuniversum"
+description = ""
+date = "2019-08-07"
+author = "Michal Burdukiwicz"
+sec = 1
++++
+
 
 # Plea for pcRuniveRsum - R qPCR / dPCR / MCA Landscape
 
@@ -11,7 +14,9 @@ date:   2014-10-02 11:12:21
 # Packages in pcRuniveRsum (in alphabetical order)
 
 ## [chipPCR](http://github.com/michbur/chipPCR)  
-### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)  
+
+### [Changelog of the stable version](http://cran.r-project.org/web/packages/chipPCR/ChangeLog)  
+
 
 The chipPCR package is a toolkit of functions to preprocess amplification curve data. Amplification data can be obtained from conventional PCR reactions or isothermal amplification reactions. The package contains functions to normalize and baseline amplification curves, a routine to detect the start of an amplification reaction, several smoothers for amplification data, a function to distinguish positive and negative amplification reactions and a function to determine the amplification efficiency. The smoothers are based on LOWESS, moving average, cubic splines, Savitzky-Golay and others. 
 
@@ -22,15 +27,32 @@ In addition the first approximate approximate derivative maximum (FDM) and secon
 [AmpSim](http://michbur.shinyapps.io/AmpSim/)  
 [MFIaggr](http://michbur.shinyapps.io/MFIaggr_gui/)  
 
-## [dpcR](http://github.com/michbur/dpcR)  
-### Mainteiner: Michal Burdukiewicz (@michbur)  
-Analysis, visualisation and simulation of digital PCR experiments.
 
-## [mbMCA](http://github.com/michbur/MBmca)  
-### Mainteiner: Stefan Roediger (stefan.roediger@hs-lausitz.de)  
+
+## [dpcR](http://github.com/michbur/dpcR)  
+
+### [Changelog of the stable version](http://cran.r-project.org/web/packages/dpcR/ChangeLog)  
+
+dpcR provides tools for analysis, visualisation and simulation of digital PCR experiments. It contains methods of comparing dPCR reactions, convertion of qPCR experiments to dPCR and spatial randomness tests.
+
+### Web services:   
+
+[dpcr_density](http://michbur.shinyapps.io/dpcr_density/): calculates and plots the density of the number of positive molecules or the average number of molecules per partition.
+[test_counts](https://michbur.shinyapps.io/test_counts_gui/): showcase for usage of Generalized Linear models for comparing digital PCR experiments.
+
+
+## [mbMCA](http://github.com/michbur/MBmca)   
+
+### [Changelog of the stable version](http://cran.r-project.org/web/packages/MBmca/ChangeLog)  
 
 The MBmca package provides data sets and lightweight utilities for nucleic acid melting curve analysis and presentation on microbead surfaces.  
 
+
+
 ## [RDML](http://github.com/kablag/RDML)  
-### Mainteiner: Konstantin A. Blagodatskikh (@kablag)  
+  
+### [Changelog of the stable version](http://cran.r-project.org/web/packages/RDML/ChangeLog)  
+  
 Imports real-time thermo cycler (qPCR) data from Real-time PCR Data Markup Language (RDML) format files and transforms to the appropriate formats of the 'qpcR' and 'chipPCR' packages.
+
+
