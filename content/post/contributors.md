@@ -1,8 +1,10 @@
----
-layout: page
-title: Authors
-permalink: /Authors/
----
++++
+title = "Contributors"
+description = ""
+date = "2019-08-07"
+author = "Michal Burdukiewicz"
+sec = 2
++++
 
 ## Authors and Contributors (in alphabetical order)
 
@@ -19,8 +21,3 @@ ReasearchGate account: [https://www.researchgate.net/profile/Michal_Burdukiewicz
 Maintainer of [chipPCR](http://github.com/michbur/chipPCR) and [mbMCA](http://github.com/michbur/MBmca) packages.  
 ReasearchGate account: [http://www.researchgate.net/profile/Stefan_Roediger](http://www.researchgate.net/profile/Stefan_Roediger)  
 Mail: stefan.roediger[at]hs-lausitz.de  
-
-
-
-
-
