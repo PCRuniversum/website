@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:PCRuniversum/PCRuniversum.github.io.git
 	branch = master
+[submodule "themes/onedly"]
+	path = themes/onedly
+	url = https://github.com/cdeck3r/OneDly-Theme.git
