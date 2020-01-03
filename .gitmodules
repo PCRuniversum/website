@@ -1,6 +1,3 @@
-[submodule "themes/onedly"]
-	path = themes/onedly
-	url = https://github.com/cdeck3r/OneDly-Theme.git
 [submodule "public"]
 	path = public
 	url = git@github.com:PCRuniversum/PCRuniversum.github.io.git
